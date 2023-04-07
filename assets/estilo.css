@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Roboto+Slab&display=swap');
+
+ul{
+    list-style-type: none;
+}
+
+li a{
+    font-family: "Roboto Slab", sans-serif;
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Delicious Handrawn', sans-serif;
+    color: #BA90C6;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
